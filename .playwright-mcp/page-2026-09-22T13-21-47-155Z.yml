@@ -1,0 +1,291 @@
+- generic [active] [ref=f1e1]:
+  - navigation "Main navigation" [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - link "Spanish Founders — home" [ref=f1e4] [cursor=pointer]:
+        - /url: "#hero"
+        - generic [ref=f1e5]: SFP
+        - generic [ref=f1e6]: Spanish Founders
+      - generic [ref=f1e7]:
+        - list [ref=f1e8]:
+          - listitem [ref=f1e9]:
+            - link "Thesis" [ref=f1e10] [cursor=pointer]:
+              - /url: "#thesis"
+          - listitem [ref=f1e11]:
+            - link "Opportunity" [ref=f1e12] [cursor=pointer]:
+              - /url: "#opportunity"
+          - listitem [ref=f1e13]:
+            - link "For Founders" [ref=f1e14] [cursor=pointer]:
+              - /url: "#founders"
+          - listitem [ref=f1e15]:
+            - link "For Investors" [ref=f1e16] [cursor=pointer]:
+              - /url: "#investors"
+          - listitem [ref=f1e17]:
+            - link "Team" [ref=f1e18] [cursor=pointer]:
+              - /url: "#team"
+          - listitem [ref=f1e19]:
+            - link "Contact" [ref=f1e20] [cursor=pointer]:
+              - /url: "#contact"
+        - link "Apply Now" [ref=f1e21] [cursor=pointer]:
+          - /url: "#contact"
+  - region "Spanish Founders hero" [ref=f1e22]:
+    - generic [ref=f1e30]:
+      - paragraph [ref=f1e31]: Series A · Spain → USA · LATAM
+      - heading "Spain's Boldest Founders. Built for Global Markets." [level=1] [ref=f1e32]: Spain's Boldest Founders.Built for Global Markets.
+      - paragraph [ref=f1e33]: We back ambitious Spanish companies at Series A — founders with proven traction and the clarity to scale across the United States and Latin America.
+      - generic [ref=f1e34]:
+        - link "Our Investment Thesis" [ref=f1e35] [cursor=pointer]:
+          - /url: "#thesis"
+        - link "Apply for Funding" [ref=f1e36] [cursor=pointer]:
+          - /url: "#contact"
+    - generic [ref=f1e38]: Scroll
+    - tablist "Slideshow navigation" [ref=f1e40]:
+      - tab "Slide 1" [selected] [ref=f1e41] [cursor=pointer]
+      - tab "Slide 2" [ref=f1e42] [cursor=pointer]
+      - tab "Slide 3" [ref=f1e43] [cursor=pointer]
+  - region "Our principles" [ref=f1e44]:
+    - generic [ref=f1e46]:
+      - generic [ref=f1e47]:
+        - heading "Series A Focus" [level=3] [ref=f1e52]
+        - paragraph [ref=f1e53]: We invest at the moment of commercial proof — when product-market fit is established, growth is accelerating, and the path to global scale is clear.
+      - generic [ref=f1e54]:
+        - heading "Spanish DNA" [level=3] [ref=f1e59]
+        - paragraph [ref=f1e60]: We have deep roots in Madrid, Barcelona, and Valencia's thriving startup communities — and unmatched access to Spain's most ambitious founder generation.
+      - generic [ref=f1e61]:
+        - heading "Transatlantic Platform" [level=3] [ref=f1e67]
+        - paragraph [ref=f1e68]: Our network opens doors across New York, Miami, Mexico City, and São Paulo — connecting Spanish scale-ups to the capital and partners they need to win globally.
+      - generic [ref=f1e69]:
+        - heading "Operator Backing" [level=3] [ref=f1e74]
+        - paragraph [ref=f1e75]: We are founders and operators ourselves. We invest our time alongside our capital — with hands-on support for US market entry, LATAM expansion, and beyond.
+  - region "Fund at a glance" [ref=f1e76]:
+    - generic [ref=f1e78]:
+      - generic [ref=f1e79]:
+        - generic [ref=f1e80]: Series A
+        - text: Investment Stage
+      - generic [ref=f1e81]:
+        - generic [ref=f1e82]: Spain
+        - text: Home Market
+      - generic [ref=f1e83]:
+        - generic [ref=f1e84]: US + LATAM
+        - text: Expansion Markets
+      - generic [ref=f1e85]:
+        - generic [ref=f1e86]: B2B Tech
+        - text: Primary Sector Focus
+  - region [ref=f1e87]:
+    - generic [ref=f1e89]:
+      - img "Spanish founders collaborating in a modern workspace" [ref=f1e91]
+      - generic [ref=f1e92]:
+        - generic [ref=f1e93]: Investment Thesis
+        - heading "Spain's Breakout Moment Is Now" [level=2] [ref=f1e94]: Spain's BreakoutMoment Is Now
+        - paragraph [ref=f1e95]: A new generation of Spanish B2B companies has emerged — technically world-class, commercially proven, and fundamentally different from anything Europe has built before.
+        - paragraph [ref=f1e96]: "Spanish founders carry a rare structural advantage: European product discipline and engineering depth, native fluency across 20+ LATAM markets, and a rapidly growing network of Spanish-speaking operators in the United States. This is not an emerging ecosystem — it is a breakout one. We invest at the inflection point, when traction is real and global ambition is non-negotiable."
+        - generic [ref=f1e97]:
+          - generic [ref=f1e102]:
+            - strong [ref=f1e103]: Proven Revenue
+            - text: €500K–€3M ARR with strong year-on-year growth — product-market fit is established, not hypothetical
+          - generic [ref=f1e108]:
+            - strong [ref=f1e109]: Transatlantic Ambition
+            - text: Active expansion plans towards the US and/or Latin America with a credible go-to-market thesis
+          - generic [ref=f1e114]:
+            - strong [ref=f1e115]: B2B Technology
+            - text: SaaS, fintech, marketplaces, and deep tech — companies with durable, defensible business models
+          - generic [ref=f1e120]:
+            - strong [ref=f1e121]: Execution-First Teams
+            - text: Founders who have built and shipped — engineers, operators, and domain experts over pure visionaries
+        - link "Apply for Funding" [ref=f1e122] [cursor=pointer]:
+          - /url: "#contact"
+  - region [ref=f1e123]:
+    - generic [ref=f1e124]:
+      - generic [ref=f1e125]:
+        - generic [ref=f1e126]: The Opportunity
+        - heading "A Structural Advantage No Other Fund Has" [level=2] [ref=f1e127]: A Structural AdvantageNo Other Fund Has
+        - paragraph [ref=f1e128]: Spanish founders occupy a unique position at the intersection of Europe's quality, Latin America's growth, and the US's scale. We are the fund built for exactly this moment.
+      - generic [ref=f1e129]:
+        - generic [ref=f1e130]:
+          - generic [ref=f1e131]: "01"
+          - heading "The Spanish Ecosystem" [level=3] [ref=f1e132]
+          - paragraph [ref=f1e133]: Spain's technology sector has reached critical mass. Madrid and Barcelona now rank among Europe's top five startup hubs, producing world-class engineering talent and an increasing pipeline of B2B companies with €10M+ ARR milestones. Yet Series A capital with transatlantic conviction remains scarce — creating a structural gap we are built to fill.
+        - generic [ref=f1e134]:
+          - generic [ref=f1e135]: "02"
+          - heading "The LATAM Advantage" [level=3] [ref=f1e136]
+          - paragraph [ref=f1e137]: 650 million Spanish-speaking consumers across 20 markets represent one of the most underserved and fastest-growing technology opportunities in the world. Spanish founders have native cultural fluency, existing networks, and inherent trust advantages that no non-Spanish company can replicate. LATAM is not a secondary market for them — it is home territory with massive, largely untapped growth potential.
+        - generic [ref=f1e138]:
+          - generic [ref=f1e139]: "03"
+          - heading "The US Gateway" [level=3] [ref=f1e140]
+          - paragraph [ref=f1e141]: Miami and New York have emerged as launching pads for Spanish-speaking technology companies targeting the American market. The US Hispanic population of 60M+ is the fastest-growing consumer segment in the country, and enterprise buyers increasingly prize Spanish-speaking operators who understand both markets. Spanish founders are no longer outsiders — they arrive with an unfair advantage built in.
+      - blockquote [ref=f1e142]:
+        - paragraph [ref=f1e143]: "\"Spanish founders don't choose between Europe, Latin America, and the United States. They are built for all three.\""
+        - text: — The Spanish Founders Investment Thesis
+  - region [ref=f1e144]:
+    - generic [ref=f1e146]:
+      - generic [ref=f1e147]:
+        - generic [ref=f1e148]: For Founders
+        - heading "Capital Is the Beginning, Not the End" [level=2] [ref=f1e149]: Capital Is theBeginning, Not the End
+        - paragraph [ref=f1e150]: When you raise from Spanish Founders Platform, you gain more than a check. You gain a dedicated partner who has done what you are trying to do — and a platform built to accelerate your transatlantic journey.
+        - paragraph [ref=f1e151]: We work intensively alongside portfolio companies at the critical Series A inflection point — when hiring is hardest, when US market entry decisions are highest-stakes, and when LATAM expansion requires local intelligence you cannot buy. We are the first call, not just a board seat.
+        - generic [ref=f1e152]:
+          - generic [ref=f1e157]:
+            - strong [ref=f1e158]: US Market Entry Support
+            - text: Warm introductions to US enterprise buyers, distribution partners, and the right Series B investors across New York and the Bay Area
+          - generic [ref=f1e163]:
+            - strong [ref=f1e164]: LATAM Network
+            - text: A curated ecosystem of operators, distributors, and fund partners across Mexico, Colombia, Brazil, and Argentina
+          - generic [ref=f1e169]:
+            - strong [ref=f1e170]: Founder Community
+            - text: Access to a private network of Spanish founders who have scaled globally — peers who have navigated exactly what you are facing
+          - generic [ref=f1e175]:
+            - strong [ref=f1e176]: Follow-on Path
+            - text: We actively support portfolio companies in securing Series B capital from US and international investors through our LP and co-investor network
+        - link "Tell Us About Your Company" [ref=f1e177] [cursor=pointer]:
+          - /url: "#contact"
+      - img "Founders in a strategic planning session" [ref=f1e179]
+  - region [ref=f1e180]:
+    - generic [ref=f1e182]:
+      - img "Investor meeting and portfolio review" [ref=f1e184]
+      - generic [ref=f1e185]:
+        - generic [ref=f1e186]: For Investors
+        - heading "A Differentiated Return Profile. A Differentiated Fund." [level=2] [ref=f1e187]: A Differentiated ReturnProfile. A Differentiated Fund.
+        - paragraph [ref=f1e188]: Spanish Founders Platform offers institutional and sophisticated investors a structurally differentiated access point into European venture — with a global expansion thesis that drives premium outcomes.
+        - paragraph [ref=f1e189]: Spanish Series A companies have historically been under-valued by the international venture community, creating an asymmetric entry point for investors with the sourcing depth to identify them early. Our fund is designed to capture this mispricing while building a portfolio with inherent diversification across European quality and transatlantic scale.
+        - generic [ref=f1e190]:
+          - generic [ref=f1e195]:
+            - strong [ref=f1e196]: Proprietary Sourcing
+            - text: Deep relationships across Spain's top startup ecosystems provide exclusive access to deals that do not appear on international platforms
+          - generic [ref=f1e201]:
+            - strong [ref=f1e202]: Expansion Multiple
+            - text: Series A companies that successfully execute a US or LATAM expansion typically command a 3–5× valuation step-up at their Series B, driving strong fund returns
+          - generic [ref=f1e207]:
+            - strong [ref=f1e208]: Portfolio Diversification
+            - text: Non-correlated to US VC cycles — Spanish companies operate on European fundamentals with global growth upside across two distinct market opportunities
+          - generic [ref=f1e213]:
+            - strong [ref=f1e214]: Operator GPs
+            - text: Fund managers who have built and scaled technology companies bring a perspective that purely financial VCs cannot — driving operational value alongside capital
+        - link "Request Fund Materials" [ref=f1e215] [cursor=pointer]:
+          - /url: "#contact"
+  - region [ref=f1e216]:
+    - generic [ref=f1e217]:
+      - generic [ref=f1e218]:
+        - generic [ref=f1e219]: The Team
+        - heading "Founders Backing Founders" [level=2] [ref=f1e220]
+        - paragraph [ref=f1e221]: We are operators and entrepreneurs who have built, scaled, and exited technology companies. We invest our experience and our network alongside every check.
+      - generic [ref=f1e222]:
+        - generic [ref=f1e225]:
+          - heading "General Partner" [level=3] [ref=f1e226]
+          - generic [ref=f1e227]: Fund Management & Investments
+          - paragraph [ref=f1e228]: Operator-turned-investor with experience scaling B2B technology companies across Spain, the United States, and Latin America.
+          - link "LinkedIn" [ref=f1e229] [cursor=pointer]:
+            - /url: https://linkedin.com
+        - generic [ref=f1e235]:
+          - heading "Venture Partner" [level=3] [ref=f1e236]
+          - generic [ref=f1e237]: US & LATAM Strategy
+          - paragraph [ref=f1e238]: Seasoned executive with deep relationships across Silicon Valley, New York, and the leading technology ecosystems of Latin America.
+          - link "LinkedIn" [ref=f1e239] [cursor=pointer]:
+            - /url: https://linkedin.com
+        - generic [ref=f1e245]:
+          - heading "Venture Partner" [level=3] [ref=f1e246]
+          - generic [ref=f1e247]: Portfolio & Growth
+          - paragraph [ref=f1e248]: Former founder with multiple exits and extensive experience supporting Series A companies through their first international market expansions.
+          - link "LinkedIn" [ref=f1e249] [cursor=pointer]:
+            - /url: https://linkedin.com
+  - region [ref=f1e253]:
+    - generic [ref=f1e255]:
+      - generic [ref=f1e256]: Get in Touch
+      - heading "Let's Build Something That Crosses Borders" [level=2] [ref=f1e257]: Let's Build SomethingThat Crosses Borders
+      - paragraph [ref=f1e258]: Whether you are a Spanish founder ready to scale globally or a sophisticated investor seeking differentiated venture exposure — we want to hear from you.
+      - link "Email Us Directly" [ref=f1e260] [cursor=pointer]:
+        - /url: mailto:hello@sfp.vc
+      - generic [ref=f1e261]:
+        - generic [ref=f1e262]:
+          - generic [ref=f1e263]:
+            - generic [ref=f1e264]: Full Name
+            - textbox "Full Name" [ref=f1e265]:
+              - /placeholder: Your full name
+          - generic [ref=f1e266]:
+            - generic [ref=f1e267]: Email Address
+            - textbox "Email Address" [ref=f1e268]:
+              - /placeholder: your@email.com
+        - generic [ref=f1e269]:
+          - generic [ref=f1e270]: I am reaching out as a…
+          - combobox "I am reaching out as a…" [ref=f1e271]:
+            - option "Select an option" [disabled] [selected]
+            - option "Founder seeking investment"
+            - option "Investor / LP inquiry"
+            - option "Other"
+        - generic [ref=f1e272]:
+          - generic [ref=f1e273]: Company / Organisation
+          - textbox "Company / Organisation" [ref=f1e274]:
+            - /placeholder: Your company name
+        - generic [ref=f1e275]:
+          - generic [ref=f1e276]: Message
+          - textbox "Message" [ref=f1e277]:
+            - /placeholder: "For founders: tell us about your company, stage, and expansion plans. For investors: let us know your investment focus and what you are looking for."
+        - button "Send Message" [ref=f1e278] [cursor=pointer]
+        - paragraph [ref=f1e279]
+  - contentinfo [ref=f1e280]:
+    - generic [ref=f1e281]:
+      - generic [ref=f1e282]:
+        - generic [ref=f1e283]:
+          - link "SFP" [ref=f1e284] [cursor=pointer]:
+            - /url: "#hero"
+          - generic [ref=f1e285]: Spanish Founders Platform
+          - paragraph [ref=f1e286]: A VC fund investing in Spanish Series A scale-ups building category-defining companies across the United States and Latin America.
+        - navigation "Footer navigation" [ref=f1e287]:
+          - generic [ref=f1e288]:
+            - heading "The Fund" [level=4] [ref=f1e289]
+            - list [ref=f1e290]:
+              - listitem [ref=f1e291]:
+                - link "Investment Thesis" [ref=f1e292] [cursor=pointer]:
+                  - /url: "#thesis"
+              - listitem [ref=f1e293]:
+                - link "The Opportunity" [ref=f1e294] [cursor=pointer]:
+                  - /url: "#opportunity"
+              - listitem [ref=f1e295]:
+                - link "For Investors" [ref=f1e296] [cursor=pointer]:
+                  - /url: "#investors"
+              - listitem [ref=f1e297]:
+                - link "The Team" [ref=f1e298] [cursor=pointer]:
+                  - /url: "#team"
+          - generic [ref=f1e299]:
+            - heading "For Founders" [level=4] [ref=f1e300]
+            - list [ref=f1e301]:
+              - listitem [ref=f1e302]:
+                - link "What We Offer" [ref=f1e303] [cursor=pointer]:
+                  - /url: "#founders"
+              - listitem [ref=f1e304]:
+                - link "Investment Criteria" [ref=f1e305] [cursor=pointer]:
+                  - /url: "#thesis"
+              - listitem [ref=f1e306]:
+                - link "Apply for Funding" [ref=f1e307] [cursor=pointer]:
+                  - /url: "#contact"
+          - generic [ref=f1e308]:
+            - heading "Markets" [level=4] [ref=f1e309]
+            - list [ref=f1e310]:
+              - listitem [ref=f1e311]:
+                - link "Spain" [ref=f1e312] [cursor=pointer]:
+                  - /url: "#pillars"
+              - listitem [ref=f1e313]:
+                - link "United States" [ref=f1e314] [cursor=pointer]:
+                  - /url: "#opportunity"
+              - listitem [ref=f1e315]:
+                - link "Latin America" [ref=f1e316] [cursor=pointer]:
+                  - /url: "#opportunity"
+          - generic [ref=f1e317]:
+            - heading "Contact" [level=4] [ref=f1e318]
+            - list [ref=f1e319]:
+              - listitem [ref=f1e320]:
+                - link "hello@sfp.vc" [ref=f1e321] [cursor=pointer]:
+                  - /url: mailto:hello@sfp.vc
+              - listitem [ref=f1e322]:
+                - link "Contact Form" [ref=f1e323] [cursor=pointer]:
+                  - /url: "#contact"
+      - generic [ref=f1e324]:
+        - paragraph [ref=f1e325]: Spanish Founders Platform backs the most ambitious Spanish founders at Series A — companies with proven traction and the clarity to build for the United States and Latin America. We are founders and operators who invest our experience alongside our capital.
+        - generic [ref=f1e326]:
+          - link "Spanish Founders on LinkedIn" [ref=f1e327] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/spanish-founders
+          - link "Spanish Founders on X" [ref=f1e331] [cursor=pointer]:
+            - /url: https://x.com/spanishfounders
+      - generic [ref=f1e334]:
+        - paragraph [ref=f1e335]: This website is for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any security or investment product. Investments in venture capital funds involve significant risk, including the possible loss of the entire amount invested. Past performance is not indicative of future results. This communication is directed exclusively at sophisticated and professional investors who meet applicable regulatory requirements. Spanish Founders Platform does not provide investment advice to the general public.
+        - generic [ref=f1e336]:
+          - generic [ref=f1e337]: © 2025 Spanish Founders Platform. All Rights Reserved.
+          - generic [ref=f1e338]: sfp.vc
